@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conn_PiicoDev_header_01x05_Male_INT
+D connector, single row, with PiicoDev pin labels
+K connector
+F ~
+$ENDCMP
+#
+$CMP LED_GlowBit_WS2812B_v5
+D RGB LED with integrated controller
+K RGB LED GlowBit addressable
+$ENDCMP
+#
+#End Doc Library
