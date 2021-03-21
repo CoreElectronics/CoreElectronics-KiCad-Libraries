@@ -1,0 +1,17 @@
+(module Conn_microbit_clip (layer F.Cu) (tedit 6021FD02)
+  (descr "A micro:bit compatible edge-connection for banana / alligator. ")
+  (tags "microbit micro bit alligator")
+  (fp_text reference REF** (at 0 0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Conn_microbit_clip (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole custom (at 0 0) (size 5 5) (drill 4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly (pts
+         (xy -2.35 0) (xy 2.35 0) (xy 2.35 7) (xy -2.35 7)) (width 0))
+    ))
+)
