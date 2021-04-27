@@ -23,4 +23,8 @@ D RGB LED with integrated controller
 K RGB LED GlowBit addressable
 $ENDCMP
 #
+$CMP VEML6040
+F https://www.vishay.com/docs/84276/veml6040.pdf
+$ENDCMP
+#
 #End Doc Library
