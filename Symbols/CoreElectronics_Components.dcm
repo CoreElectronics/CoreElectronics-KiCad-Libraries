@@ -27,4 +27,8 @@ $CMP VEML6040
 F https://www.vishay.com/docs/84276/veml6040.pdf
 $ENDCMP
 #
+$CMP WSEN-HIDS
+F https://www.vishay.com/docs/84276/veml6040.pdf
+$ENDCMP
+#
 #End Doc Library
