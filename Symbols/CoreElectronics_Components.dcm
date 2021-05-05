@@ -23,6 +23,10 @@ D RGB LED with integrated controller
 K RGB LED GlowBit addressable
 $ENDCMP
 #
+$CMP MS5637
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5637-02BA03&DocType=Data+Sheet&DocLang=English
+$ENDCMP
+#
 $CMP VEML6040
 F https://www.vishay.com/docs/84276/veml6040.pdf
 $ENDCMP
