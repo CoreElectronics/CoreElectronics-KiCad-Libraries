@@ -1,0 +1,16 @@
+(module IMU_axes_and_polarity_Z (layer F.Cu) (tedit 609495B1)
+  (fp_text reference Ref** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value IMU_axes_and_polarity_Z (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_circle (center 0 0) (end 1.1 0) (layer F.SilkS) (width 0.16))
+  (fp_circle (center 0 0) (end 0.2 0) (layer F.SilkS) (width 0.4))
+  (fp_line (start -1 -1.4) (end -0.3 -2.2) (layer F.SilkS) (width 0.16))
+  (fp_line (start -1 -1.4) (end -0.1 -1.4) (layer F.SilkS) (width 0.16))
+  (fp_text user +Z (at -3.4 2) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_arc (start 0 0) (end 0.7 1.6) (angle -192.5) (layer F.SilkS) (width 0.16))
+)
