@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CAP1203
+D 3-Channel Capacitive Touch Sensor
+K 3 Channel Capacitive Touch Sensor
+F https://ww1.microchip.com/downloads/en/DeviceDoc/00001572B.pdf
+$ENDCMP
+#
 $CMP Conn_PiicoDev_header_01x04_Male
 D connector, single row, with PiicoDev pin labels
 K connector
