@@ -1,4 +1,4 @@
-(module Conn_alligator-banana_small (layer F.Cu) (tedit 60A74B82)
+(module Conn_alligator-banana_small (layer F.Cu) (tedit 60C0579A)
   (descr "micro:bit style alligator / 4mm banana connector")
   (tags "microbit alligator banana clip")
   (fp_text reference REF** (at 0 0.125) (layer F.Fab)
@@ -7,7 +7,7 @@
   (fp_text value VAL** (at 0 -0.125) (layer F.Fab)
     (effects (font (size 0.1 0.1) (thickness 0.01)))
   )
-  (pad 1 thru_hole custom (at 0 0) (size 4 4) (drill oval 3 2) (layers *.Cu *.Mask)
+  (pad 1 thru_hole custom (at 0 0) (size 4 4) (drill 3) (layers *.Cu *.Mask)
     (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
