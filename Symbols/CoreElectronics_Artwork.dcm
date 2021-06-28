@@ -4,4 +4,9 @@ $CMP LOGO_PiicoDev
 D The PiicoDev logo with Registered Trademark
 $ENDCMP
 #
+$CMP Label_PCB_Art
+D Generic label to attach PCB artwork
+K PCB label generic
+$ENDCMP
+#
 #End Doc Library
