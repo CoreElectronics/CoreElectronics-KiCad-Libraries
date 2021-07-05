@@ -24,6 +24,10 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP Display_Graphic_OLED_SSD1306_30-Pin
+D 30-Pin OLED Graphic Display with SSD1306 Controller
+$ENDCMP
+#
 $CMP LED_GlowBit_WS2812B_v5
 D RGB LED with integrated controller
 K RGB LED GlowBit addressable
