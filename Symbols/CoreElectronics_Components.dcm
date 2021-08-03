@@ -37,6 +37,10 @@ $CMP MS5637
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5637-02BA03&DocType=Data+Sheet&DocLang=English
 $ENDCMP
 #
+$CMP QMC6310
+F https://datasheet.lcsc.com/lcsc/2007101835_QST-QMC6310U_C669299.pdf
+$ENDCMP
+#
 $CMP VEML6040
 F https://www.vishay.com/docs/84276/veml6040.pdf
 $ENDCMP
