@@ -24,6 +24,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP Conn_PiicoDev_socket_UPDI
+D connector, single row, with PiicoDev pin labels
+K connector
+F ~
+$ENDCMP
+#
 $CMP Display_Graphic_OLED_SSD1306_30-Pin
 D 30-Pin OLED Graphic Display with SSD1306 Controller
 $ENDCMP
