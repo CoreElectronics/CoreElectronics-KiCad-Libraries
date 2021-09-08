@@ -39,6 +39,12 @@ D RGB LED with integrated controller
 K RGB LED GlowBit addressable
 $ENDCMP
 #
+$CMP MFRC522
+D Standard performance MIFARE and NTAG frontend
+K RFID, NFC
+F https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf
+$ENDCMP
+#
 $CMP MS5637
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5637-02BA03&DocType=Data+Sheet&DocLang=English
 $ENDCMP
