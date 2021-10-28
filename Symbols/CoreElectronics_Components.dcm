@@ -53,6 +53,11 @@ $CMP QMC6310
 F https://datasheet.lcsc.com/lcsc/2007101835_QST-QMC6310U_C669299.pdf
 $ENDCMP
 #
+$CMP RV-3028-C7_32.768kHz_1ppm_TA_QC
+D Real Time Clock 32.768kHz I2C Time Acc. 1ppm
+F https://www.mouser.de/datasheet/2/530/RV_3028_C7-1524919.pdf
+$ENDCMP
+#
 $CMP VEML6040
 F https://www.vishay.com/docs/84276/veml6040.pdf
 $ENDCMP
