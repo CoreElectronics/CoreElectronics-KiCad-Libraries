@@ -1,0 +1,14 @@
+(module Axes_and_polarity_X (layer F.Cu) (tedit 616E1277)
+  (fp_text reference Ref** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Axes_and_polarity_X (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 4 0) (end 3 -0.5) (layer F.SilkS) (width 0.16))
+  (fp_line (start 4 0) (end 3 0.6) (layer F.SilkS) (width 0.16))
+  (fp_line (start 0 0) (end 4 0) (layer F.SilkS) (width 0.16))
+  (fp_text user +X (at 1.5 0.825) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
