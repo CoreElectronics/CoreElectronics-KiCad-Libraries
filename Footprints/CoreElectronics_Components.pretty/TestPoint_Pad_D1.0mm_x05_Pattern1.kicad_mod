@@ -3,7 +3,6 @@
   (tedit 62312F53)
   (descr "5x1.0mm Pads Pattern 1")
   (tags "testpoint test point pad")
-  (attr smd)
   (fp_text reference "REF**" (at 0 -2.75 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 6fec654d-e82b-41e1-919e-d26bd723cb22)
