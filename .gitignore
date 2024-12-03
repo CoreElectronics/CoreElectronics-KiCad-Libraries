@@ -1,3 +1,6 @@
 # Backups
 *.bak
 *.bck
+
+# Windows cruft
+*Thumbs.db
