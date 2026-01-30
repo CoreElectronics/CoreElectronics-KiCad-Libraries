@@ -1,0 +1,117 @@
+(footprint "PogoPin_Header_D0.8mm_02x03_P1.27_RearSMT"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -3.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "bb94dfd0-3b1d-4608-9d7b-d763433ee172")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PogoPin_Header_D0.8mm_02x03_P1.27_RearSMT"
+		(at 0 -5.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4c28842e-c80c-41a0-a1ad-8557f601be72")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c22ca110-f748-43e8-be00-c1eb5fe64ff5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e9aa2a46-ca0e-4f42-afa1-e6388a427032")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "defc4e88-8d90-448c-9921-36283bc7ad94")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_arc
+		(start -0.635 -1.27)
+		(mid -0.449013 -1.719013)
+		(end 0 -1.905)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "cb093829-2f14-4b5c-89fc-24f7856b6015")
+	)
+	(pad "1" smd circle
+		(at 0 -1.27)
+		(size 0.8 0.8)
+		(layers "B.Cu" "B.Mask")
+		(uuid "42e1691c-556f-48d3-bf15-02d744e140f2")
+	)
+	(pad "2" smd circle
+		(at 1.27 -1.27)
+		(size 0.8 0.8)
+		(layers "B.Cu" "B.Mask")
+		(uuid "d1d95b0d-28ae-4372-88eb-dffac82f2b55")
+	)
+	(pad "3" smd circle
+		(at 0 0)
+		(size 0.8 0.8)
+		(layers "B.Cu" "B.Mask")
+		(uuid "9590ac18-1f12-4142-bc1c-9049c5e96c91")
+	)
+	(pad "4" smd circle
+		(at 1.27 0)
+		(size 0.8 0.8)
+		(layers "B.Cu" "B.Mask")
+		(uuid "0764e623-2cf2-4078-bfdf-b89d50d79a12")
+	)
+	(pad "5" smd circle
+		(at 0 1.27)
+		(size 0.8 0.8)
+		(layers "B.Cu" "B.Mask")
+		(uuid "1a83c3f9-020b-44c5-b1a6-0011bbd22ba8")
+	)
+	(pad "6" smd circle
+		(at 1.27 1.27)
+		(size 0.8 0.8)
+		(layers "B.Cu" "B.Mask")
+		(uuid "ee77d2f8-5c63-4956-9ee3-43d63770935a")
+	)
+)
